@@ -5,12 +5,12 @@
     
     
     
-    <link>https://menu.hookahplace.it/hookahplace-menu/categories/</link>
+    <link>https://menu.hookahplace.it/categories/</link>
     <description>Recent content in Categories on Hookah Place Menu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://menu.hookahplace.it/hookahplace-menu/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://menu.hookahplace.it/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
