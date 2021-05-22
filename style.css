@@ -1,6 +1,11 @@
 body {
     font-family: 'Bebas Neue';
     font-size: 100%;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
 }
 
 .menu-bar {
