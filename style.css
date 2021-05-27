@@ -49,6 +49,10 @@ body {
     width: 24px;
 }
 
+.spacer._8 {
+    width: 8px;
+}
+
 .header {
     position: fixed; 
     top: 0px;
@@ -73,4 +77,63 @@ body {
 
 .inside {
     color: #e2bb60;
+}
+
+/* Images on menu */
+.entry-container {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.subcontainer {
+    flex: 1 1 0%;
+}
+
+.bl {
+	display: block;
+}
+
+.title {
+    display: flex;
+    -moz-box-align: center;
+    align-items: center;
+    display: flex;
+    margin: 0;
+}
+
+.divtitle {
+    display: -webkit-box;
+    -moz-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+}
+
+.divdesc {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -moz-box-orient: vertical;
+    /* overflow: hidden; */
+}
+
+.description {
+    margin-top: 10px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.pic {
+    height: 88px;
+    width: 96px;
+    display: flex;
+    flex-shrink: 0;
+}
+
+.cover {
+    opacity: 1;
+    height: 88px;
+    width: 88px;
+    object-fit: cover;
+    outline: rgba(0, 0, 0, 0.03) solid 1px;
+    outline-offset: -1px;
 }
