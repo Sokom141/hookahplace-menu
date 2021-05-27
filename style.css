@@ -137,3 +137,10 @@ body {
     outline: rgba(0, 0, 0, 0.03) solid 1px;
     outline-offset: -1px;
 }
+
+.lang-flag {
+    width: 24px;
+    height: 24px;
+    padding-right: 5px;
+    padding-bottom: 2px;
+}
