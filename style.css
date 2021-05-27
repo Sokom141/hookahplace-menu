@@ -123,16 +123,16 @@ body {
 }
 
 .pic {
-    height: 88px;
-    width: 96px;
+    height: 100px; /*88*/
+    width: 100px; /*96*/
     display: flex;
     flex-shrink: 0;
 }
 
 .cover {
     opacity: 1;
-    height: 88px;
-    width: 88px;
+    height: 100px;
+    width: 100px;
     object-fit: cover;
     outline: rgba(0, 0, 0, 0.03) solid 1px;
     outline-offset: -1px;
