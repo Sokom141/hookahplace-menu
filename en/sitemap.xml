@@ -2,19 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.menu.hookahplace.it/en/</loc>
-    <lastmod>1970-01-01T01:00:10+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.menu.hookahplace.it/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.menu.hookahplace.it/en/"
-                />
-  </url><url>
     <loc>https://www.menu.hookahplace.it/en/posts/narghile/</loc>
     <lastmod>1970-01-01T01:00:10+01:00</lastmod>
     <xhtml:link
@@ -26,6 +13,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.menu.hookahplace.it/en/posts/narghile/"
+                />
+  </url><url>
+    <loc>https://www.menu.hookahplace.it/en/</loc>
+    <lastmod>1970-01-01T01:00:10+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.menu.hookahplace.it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.menu.hookahplace.it/en/"
                 />
   </url><url>
     <loc>https://www.menu.hookahplace.it/en/posts/</loc>
@@ -171,17 +171,17 @@
                 href="https://www.menu.hookahplace.it/en/posts/distillati/amari/"
                 />
   </url><url>
-    <loc>https://www.menu.hookahplace.it/en/posts/aperitivi/aperitivi/</loc>
+    <loc>https://www.menu.hookahplace.it/en/posts/te_caldi/te_neri/</loc>
     <lastmod>1970-01-01T01:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://www.menu.hookahplace.it/posts/aperitivi/aperitivi/"
+                href="https://www.menu.hookahplace.it/posts/te_caldi/te_neri/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.menu.hookahplace.it/en/posts/aperitivi/aperitivi/"
+                href="https://www.menu.hookahplace.it/en/posts/te_caldi/te_neri/"
                 />
   </url><url>
     <loc>https://www.menu.hookahplace.it/en/posts/vini/bollicine/</loc>
@@ -288,6 +288,32 @@
                 href="https://www.menu.hookahplace.it/en/posts/distillati/grappa/"
                 />
   </url><url>
+    <loc>https://www.menu.hookahplace.it/en/posts/te_caldi/te_verdi/</loc>
+    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.menu.hookahplace.it/posts/te_caldi/te_verdi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.menu.hookahplace.it/en/posts/te_caldi/te_verdi/"
+                />
+  </url><url>
+    <loc>https://www.menu.hookahplace.it/en/posts/te_caldi/tisane/</loc>
+    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.menu.hookahplace.it/posts/te_caldi/tisane/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.menu.hookahplace.it/en/posts/te_caldi/tisane/"
+                />
+  </url><url>
     <loc>https://www.menu.hookahplace.it/en/posts/te_caldi/infusi/</loc>
     <lastmod>1970-01-01T01:00:00+01:00</lastmod>
     <xhtml:link
@@ -353,19 +379,6 @@
                 href="https://www.menu.hookahplace.it/en/posts/narghile/premium/"
                 />
   </url><url>
-    <loc>https://www.menu.hookahplace.it/en/posts/narghile/standard/</loc>
-    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.menu.hookahplace.it/posts/narghile/standard/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.menu.hookahplace.it/en/posts/narghile/standard/"
-                />
-  </url><url>
     <loc>https://www.menu.hookahplace.it/en/posts/snack/</loc>
     <lastmod>1970-01-01T01:00:00+01:00</lastmod>
     <xhtml:link
@@ -377,6 +390,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.menu.hookahplace.it/en/posts/snack/"
+                />
+  </url><url>
+    <loc>https://www.menu.hookahplace.it/en/posts/aperitivi/aperitivi/</loc>
+    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.menu.hookahplace.it/posts/aperitivi/aperitivi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.menu.hookahplace.it/en/posts/aperitivi/aperitivi/"
                 />
   </url><url>
     <loc>https://www.menu.hookahplace.it/en/posts/aperitivi/spritz/</loc>
@@ -405,43 +431,17 @@
                 href="https://www.menu.hookahplace.it/en/posts/aperitivi/spritz_fruttati/"
                 />
   </url><url>
-    <loc>https://www.menu.hookahplace.it/en/posts/te_caldi/tisane/</loc>
+    <loc>https://www.menu.hookahplace.it/en/posts/narghile/standard/</loc>
     <lastmod>1970-01-01T01:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://www.menu.hookahplace.it/posts/te_caldi/tisane/"
+                href="https://www.menu.hookahplace.it/posts/narghile/standard/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.menu.hookahplace.it/en/posts/te_caldi/tisane/"
-                />
-  </url><url>
-    <loc>https://www.menu.hookahplace.it/en/posts/te_caldi/te_neri/</loc>
-    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.menu.hookahplace.it/posts/te_caldi/te_neri/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.menu.hookahplace.it/en/posts/te_caldi/te_neri/"
-                />
-  </url><url>
-    <loc>https://www.menu.hookahplace.it/en/posts/te_caldi/te_verdi/</loc>
-    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.menu.hookahplace.it/posts/te_caldi/te_verdi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.menu.hookahplace.it/en/posts/te_caldi/te_verdi/"
+                href="https://www.menu.hookahplace.it/en/posts/narghile/standard/"
                 />
   </url><url>
     <loc>https://www.menu.hookahplace.it/en/posts/vini/vini_bianchi/</loc>
