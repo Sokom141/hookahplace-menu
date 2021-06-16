@@ -223,6 +223,19 @@
                 href="https://www.menu.hookahplace.it/en/posts/vini/calice/"
                 />
   </url><url>
+    <loc>https://www.menu.hookahplace.it/en/posts/aperitivi/spritz/</loc>
+    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.menu.hookahplace.it/posts/aperitivi/spritz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.menu.hookahplace.it/en/posts/aperitivi/spritz/"
+                />
+  </url><url>
     <loc>https://www.menu.hookahplace.it/en/posts/analcolici/cocktail/</loc>
     <lastmod>1970-01-01T01:00:00+01:00</lastmod>
     <xhtml:link
@@ -260,6 +273,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.menu.hookahplace.it/en/posts/alcolici/coppetta/"
+                />
+  </url><url>
+    <loc>https://www.menu.hookahplace.it/en/posts/aperitivi/spritz_fruttati/</loc>
+    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.menu.hookahplace.it/posts/aperitivi/spritz_fruttati/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.menu.hookahplace.it/en/posts/aperitivi/spritz_fruttati/"
                 />
   </url><url>
     <loc>https://www.menu.hookahplace.it/en/posts/alcolici/gin_tonic/</loc>
@@ -403,32 +429,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.menu.hookahplace.it/en/posts/aperitivi/aperitivi/"
-                />
-  </url><url>
-    <loc>https://www.menu.hookahplace.it/en/posts/aperitivi/spritz/</loc>
-    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.menu.hookahplace.it/posts/aperitivi/spritz/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.menu.hookahplace.it/en/posts/aperitivi/spritz/"
-                />
-  </url><url>
-    <loc>https://www.menu.hookahplace.it/en/posts/aperitivi/spritz_fruttati/</loc>
-    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.menu.hookahplace.it/posts/aperitivi/spritz_fruttati/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.menu.hookahplace.it/en/posts/aperitivi/spritz_fruttati/"
                 />
   </url><url>
     <loc>https://www.menu.hookahplace.it/en/posts/narghile/standard/</loc>
