@@ -158,6 +158,19 @@
                 href="https://www.menu.hookahplace.it/en/posts/bibite/"
                 />
   </url><url>
+    <loc>https://www.menu.hookahplace.it/en/posts/analcolici/cocktail/</loc>
+    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.menu.hookahplace.it/posts/analcolici/cocktail/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.menu.hookahplace.it/en/posts/analcolici/cocktail/"
+                />
+  </url><url>
     <loc>https://www.menu.hookahplace.it/en/posts/distillati/amari/</loc>
     <lastmod>1970-01-01T01:00:00+01:00</lastmod>
     <xhtml:link
@@ -236,19 +249,6 @@
                 href="https://www.menu.hookahplace.it/en/posts/aperitivi/spritz/"
                 />
   </url><url>
-    <loc>https://www.menu.hookahplace.it/en/posts/analcolici/cocktail/</loc>
-    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.menu.hookahplace.it/posts/analcolici/cocktail/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.menu.hookahplace.it/en/posts/analcolici/cocktail/"
-                />
-  </url><url>
     <loc>https://www.menu.hookahplace.it/en/posts/distillati/cognac/</loc>
     <lastmod>1970-01-01T01:00:00+01:00</lastmod>
     <xhtml:link
@@ -260,19 +260,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.menu.hookahplace.it/en/posts/distillati/cognac/"
-                />
-  </url><url>
-    <loc>https://www.menu.hookahplace.it/en/posts/alcolici/coppetta/</loc>
-    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.menu.hookahplace.it/posts/alcolici/coppetta/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.menu.hookahplace.it/en/posts/alcolici/coppetta/"
                 />
   </url><url>
     <loc>https://www.menu.hookahplace.it/en/posts/aperitivi/spritz_fruttati/</loc>
@@ -299,6 +286,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.menu.hookahplace.it/en/posts/alcolici/gin_tonic/"
+                />
+  </url><url>
+    <loc>https://www.menu.hookahplace.it/en/posts/alcolici/coppetta/</loc>
+    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.menu.hookahplace.it/posts/alcolici/coppetta/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.menu.hookahplace.it/en/posts/alcolici/coppetta/"
                 />
   </url><url>
     <loc>https://www.menu.hookahplace.it/en/posts/distillati/grappa/</loc>
