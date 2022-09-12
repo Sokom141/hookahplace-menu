@@ -2,21 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.menu.hookahplace.it/en/posts/narghile/</loc>
-    <lastmod>1970-01-01T01:00:10+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.menu.hookahplace.it/posts/narghile/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.menu.hookahplace.it/en/posts/narghile/"
-                />
-  </url><url>
     <loc>https://www.menu.hookahplace.it/en/</loc>
-    <lastmod>1970-01-01T01:00:10+01:00</lastmod>
+    <lastmod>1970-01-01T01:00:09+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -26,19 +13,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.menu.hookahplace.it/en/"
-                />
-  </url><url>
-    <loc>https://www.menu.hookahplace.it/en/posts/</loc>
-    <lastmod>1970-01-01T01:00:10+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.menu.hookahplace.it/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.menu.hookahplace.it/en/posts/"
                 />
   </url><url>
     <loc>https://www.menu.hookahplace.it/en/posts/te/</loc>
@@ -52,6 +26,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.menu.hookahplace.it/en/posts/te/"
+                />
+  </url><url>
+    <loc>https://www.menu.hookahplace.it/en/posts/</loc>
+    <lastmod>1970-01-01T01:00:09+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.menu.hookahplace.it/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.menu.hookahplace.it/en/posts/"
                 />
   </url><url>
     <loc>https://www.menu.hookahplace.it/en/posts/aperitivi/</loc>
@@ -379,19 +366,6 @@
                 href="https://www.menu.hookahplace.it/en/posts/alcolici/mule/"
                 />
   </url><url>
-    <loc>https://www.menu.hookahplace.it/en/posts/narghile/premium/</loc>
-    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.menu.hookahplace.it/posts/narghile/premium/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.menu.hookahplace.it/en/posts/narghile/premium/"
-                />
-  </url><url>
     <loc>https://www.menu.hookahplace.it/en/posts/snack/</loc>
     <lastmod>1970-01-01T01:00:00+01:00</lastmod>
     <xhtml:link
@@ -416,19 +390,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.menu.hookahplace.it/en/posts/aperitivi/aperitivi/"
-                />
-  </url><url>
-    <loc>https://www.menu.hookahplace.it/en/posts/narghile/standard/</loc>
-    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.menu.hookahplace.it/posts/narghile/standard/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.menu.hookahplace.it/en/posts/narghile/standard/"
                 />
   </url><url>
     <loc>https://www.menu.hookahplace.it/en/posts/vini/vini_bianchi/</loc>
